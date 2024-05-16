@@ -1,4 +1,18 @@
-### Hi there 👋
+### Olá 👋
+
+### Boas vindas ao meu perfil 💙💙
+Meu nome é Davi Barbosa
+
+º Estou estudando na Alura
+
+º Estou me desenvolvendo na linguagem JavaScript
+
+º Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 
+### Você pode entrar em contato comigo 📫
+
+00001114509231sp@al.educacao.sp.gov.br
+
+
 
 <!--
 **Davi2Asilva/Davi2Asilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
