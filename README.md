@@ -3,6 +3,8 @@
 ### Boas vindas ao meu perfil 💙💙
 Meu nome é Davi Barbosa
 
+amo o lucas 
+
 º Estou estudando na Alura
 
 º Estou me desenvolvendo na linguagem JavaScript
