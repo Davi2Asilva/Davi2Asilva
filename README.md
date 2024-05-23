@@ -1,9 +1,7 @@
 ### Olá 👋
 
 ### Boas vindas ao meu perfil 💙💙
-Meu nome é Davi Barbosa
-
-amo o lucas 
+Meu nome é Davi Barbosa 
 
 º Estou estudando na Alura
 
